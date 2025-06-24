@@ -1,1 +1,3 @@
 # ai_ml_elevate_labs_task2
+
+ Completed task2 using Python libraries Pandas, Matplotlib, Seaborn, and Plotly, the analysis includes generating key summary statistics (mean, median, standard deviation, etc.), visualizing distributions through histograms and boxplots, and exploring relationships between features using pairplots and correlation matrices. The process helps identify important patterns, trends, and anomalies within the data, providing valuable insights and guiding further data preprocessing or modeling steps. Interactive visualizations with Plotly enhance the exploratory experience, making it easier to communicate findings and make informed decisions.
